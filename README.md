@@ -1,2 +1,2 @@
 # pull_test
-how to pull req?
+how to pull request?
