@@ -1,7 +1,7 @@
 #include <studio.h>
 
 int main() {
-    printf("%s", "Pull");
+    printf("Pull");
 
     return 0;
 }
